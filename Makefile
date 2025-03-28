@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 
 # Path and environment setup
-VENV := /tmp
+VENV := .venv
 VIRTUAL_ENV_PATH := $(VENV)/bin
 
 # Build tools configured in the virtual environment
